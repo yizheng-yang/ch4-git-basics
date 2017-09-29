@@ -48,7 +48,7 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 
   ```bash
   # Make sure that you're in the cloned repository
-  cd m4-git-intro
+  cd ch4-git-basics
 
   # Add changes from all files in the repository
   git add .
